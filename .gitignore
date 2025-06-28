@@ -28,3 +28,6 @@ CLAUDE.md
 claude.md
 *.claude
 .claude/
+
+# .devcontainer
+.devcontainer
